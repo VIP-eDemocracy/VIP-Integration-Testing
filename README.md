@@ -34,8 +34,8 @@ Todo List
 - [ ] Bug testing and reporting
 
 ###Frontline
-- [ ] Gather a basic understanding of how Frontline works
-- [ ] Setup frontline using test device and sim
+- [x] Gather a basic understanding of how Frontline works
+- [x] Setup frontline using test device and sim
 - [ ] Send collected data to Elmo
 
 ###ODK Collect
