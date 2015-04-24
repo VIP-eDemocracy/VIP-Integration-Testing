@@ -36,7 +36,9 @@ Todo List
 ###Frontline
 - [x] Gather a basic understanding of how Frontline works
 - [x] Setup frontline using test device and sim
-- [ ] Send collected data to Elmo
+- [x] Send data to Elmo
+- [ ] Download Forms using Form Creator
+- [ ] Submit Forms using Form Submitter
 
 ###ODK Collect
 - [ ] Ability to download forms from Elmo
